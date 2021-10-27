@@ -1,6 +1,6 @@
 # Clinic
 
-This project was suggested by our coordinator as a way to practice creating a REST API, it contains 3 tables, a relation many to many, a relation one to many and The four basic functions on models (CRUD).
+This project was suggested by our coordinator as a way to practice creating a REST API, it contains 3 tables, a relation many to many, a relation one to many and the four basic functions on models (CRUD).
 
 ### Patient
 
