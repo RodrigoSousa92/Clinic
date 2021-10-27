@@ -2,7 +2,7 @@
 
 This project was suggested by our coordinator as a way to practice creating a REST API, it contains 3 tables, a relation many to many, a relation one to many and The four basic functions on models (CRUD).
 
-## Patient
+### Patient
 
 -With CRUD implemented
 
@@ -10,14 +10,14 @@ This project was suggested by our coordinator as a way to practice creating a RE
 
 -many to one relation with room
 
-## Doctor
+### Doctor
 
 -With CRUD implemented
 
 -many to many relation with Patient
 
 
-## Room
+### Room
 
 -With CRUD implemented
 
