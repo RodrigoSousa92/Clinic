@@ -22,7 +22,7 @@ public class DoctorController {
     DoctorService doctorService;
 
     //Get all doctors
-    @GetMapping("/Doctor")
+    @GetMapping("/Doctors")
     public List<Doctor> getDoctors() {
         return doctorService.findAll();
     }

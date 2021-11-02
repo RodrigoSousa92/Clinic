@@ -33,7 +33,7 @@ public class PatientController {
     //Create patient
     @PostMapping(value = "/Patients")
     public List<Patient> createPatients(@RequestBody @Valid List<PatientCreationRQ> createPatientRQ) {
-        return patientService.createPlayers(createPatientRQ);
+        return patientService.createPatients(createPatientRQ);
     }
 
     //Update patient

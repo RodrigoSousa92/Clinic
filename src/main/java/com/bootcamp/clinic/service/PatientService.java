@@ -29,7 +29,7 @@ public class PatientService {
     }
 
     //Create new patient (List)
-    public List<Patient> createPlayers(List<PatientCreationRQ> patientCreationRQList) {
+    public List<Patient> createPatients(List<PatientCreationRQ> patientCreationRQList) {
         List<Patient> newPatientList = new ArrayList<>();
         Patient newPatient;
         for (PatientCreationRQ patientCreationRQ : patientCreationRQList) {
